@@ -11,15 +11,34 @@
 
     </nav>
     <header>
-        <h1> THIS IS SPICY  </h1>
+        <h1> Spicy News </h1>
     </header>
 
 <div class = "news">
     <h2> Today - The spicy soup </h2>
-    <p> In the school canteen was served a soup to a student in 11-th grade. He claims that this soup was an ordinary pepper soup served by the school. But there was a twist!It was hotter than the pepper used to make it! </p>
-    <p> The student said that he felt like his mouth was on fire and that he had to drink a lot of water to cool it down. He also said that the soup was so spicy that it made him sweat and cry. </p>
-    <p> The school administration has not yet commented on the incident, but they have promised to investigate the matter and take appropriate action if necessary. </p>
-    <img class = "news-image" src = "spicy-soup (1).jpg" alt = "spicy soup" title = "SPICY SOUP">
+    <p> In the school canteen was served a soup to a student in 11-th grade. He claims that this soup was an ordinary pepper soup served by the school. 
+        But there was a twist!It was hotter than the pepper used to make it!
+        The student said that he felt like his mouth was on fire and that he had to drink a lot of water to cool it down. 
+        He also said that the soup was so spicy that it made him sweat and cry and even made his nose run.
+        The school administration has not yet commented on the incident, but they have promised to investigate the matter and take appropriate action if necessary. </p>
+    <p> The recipe for the spicy soup is as follows: 
+        <ul>
+            <li> 1 liter of water </li>
+            <li> 1 tablespoon of pepper </li>
+            <li> 2 teaspoons of salt </li>
+            <li> 1 tablespoon of oil </li>
+            <li> 1 clove of garlic </li>
+            <li> 1 tomato  </li>
+
+        </ul>
+    </p>
+        <img class = "news-image" src = "spicy-soup (1).jpg" alt = "spicy soup" title = "SPICY SOUP">
+    <p>By words of the cook, he said that he mistook the amount of pepper for the amount of salt. 
+        He said that he accidentally added 2 tablespoons of pepper instead of 2 teaspoons of salt, which made the soup extremely spicy.
+        The cook also said that he did not realize his mistake until the student complained about the soup.
+        He apologized for the incident and said that he will be more careful in the future when preparing food.
+
+    </p>
 </div>
 </body>
 </html>
