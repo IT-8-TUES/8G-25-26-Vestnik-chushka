@@ -5,7 +5,12 @@
     <title> Spicy News - RECENT </title>
 </head>
 <body>
-    <h3> Today - The spicy soup </h3>
+    <nav class = "navigation">
+        <img class = "logo" src = "logo.png" alt = "logo" width = "50" title = "VESTNIK CHUSKI LOGO">
+        
+    </nav>
+
+    <h2> Today - The spicy soup </h2>
     <p> In the school canteen was served a soup to a student in 11-th grade. He claims that this soup was an ordinary pepper soup served by the school. But there was a twist!It was hotter than the pepper used to make it! </p>
 </body>
 </html>
