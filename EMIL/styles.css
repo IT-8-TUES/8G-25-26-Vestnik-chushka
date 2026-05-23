@@ -13,3 +13,30 @@ body {
     width: 50px;
     border-radius: 100%;
 }
+header{
+    background-color: rgba(254, 1, 1, 0.69);
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+h2{
+    color: rgb(243, 255, 7);
+}
+ul{
+    color: rgb(243, 255, 7)
+}
+p{
+    color: rgb(241, 235, 235);
+}
+.news{
+    text-align: left;
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: rgba(254, 1, 1, 0.69);
+    border-radius: 10px;
+}
+a{
+    color:rgb(243, 255, 7);
+    display:block;
+    margin-bottom: 15px;
+}

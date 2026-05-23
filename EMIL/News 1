@@ -10,8 +10,16 @@
         <a href = "project-home page.html"> HOME </a>
 
     </nav>
+    <header>
+        <h1> THIS IS SPICY  </h1>
+    </header>
 
+<div class = "news">
     <h2> Today - The spicy soup </h2>
     <p> In the school canteen was served a soup to a student in 11-th grade. He claims that this soup was an ordinary pepper soup served by the school. But there was a twist!It was hotter than the pepper used to make it! </p>
+    <p> The student said that he felt like his mouth was on fire and that he had to drink a lot of water to cool it down. He also said that the soup was so spicy that it made him sweat and cry. </p>
+    <p> The school administration has not yet commented on the incident, but they have promised to investigate the matter and take appropriate action if necessary. </p>
+    <img class = "news-image" src = "spicy-soup (1).jpg" alt = "spicy soup" title = "SPICY SOUP">
+</div>
 </body>
 </html>
