@@ -7,7 +7,7 @@
 <body>
     <nav class = "navigation">
         <img class = "logo" src = "logo (1).png" alt = "logo" width = "50" title = "VESTNIK CHUSKI LOGO">
-        <a href = "project-home page (1).html"> HOME </a>
+        <a href = "project-home page.html"> HOME </a>
 
     </nav>
 
