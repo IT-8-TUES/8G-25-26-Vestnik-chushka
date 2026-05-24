@@ -11,17 +11,21 @@
 
     </nav>
     <header>
-        <h1> Spicy News </h1>
+        <h1> Spicy News - RECENT </h1>
     </header>
 
 <div class = "news">
     <h2> Today - The spicy soup </h2>
-    <p> In the school canteen was served a soup to a student in 11-th grade. He claims that this soup was an ordinary pepper soup served by the school. 
+    <p> 
+        In the school canteen was served a soup to a student in 11-th grade in TUES.
+        He claims that this soup was an ordinary pepper soup served by the school. 
         But there was a twist!It was hotter than the pepper used to make it!
         The student said that he felt like his mouth was on fire and that he had to drink a lot of water to cool it down. 
         He also said that the soup was so spicy that it made him sweat and cry and even made his nose run.
-        The school administration has not yet commented on the incident, but they have promised to investigate the matter and take appropriate action if necessary. </p>
-    <p> The recipe for the spicy soup is as follows: 
+        The school administration has not yet commented on the incident, but they have promised to investigate the matter and take appropriate action if necessary.
+    </p>
+    <p>
+         The recipe for the spicy soup is as follows: 
         <ul>
             <li> 1 liter of water </li>
             <li> 1 tablespoon of pepper </li>
@@ -36,23 +40,32 @@
         The full recipe can be found on the school's website, but the school has not yet confirmed whether this is the exact recipe that was used to make the soup that caused the incident.
     </p>
         <img class = "news-image" src = "spicy-soup (1).jpg" alt = "spicy soup" title = "SPICY SOUP">
-    <p>By words of the cook, he said that he mistook the amount of pepper for the amount of salt. 
+    <p>
+        By words of the cook, he said that he mistook the amount of pepper for the amount of salt. 
         He said that he accidentally added 2 tablespoons of pepper instead of 2 teaspoons of salt, which made the soup extremely spicy.
         The cook also said that he did not realize his mistake until the student complained about the soup.
         He apologized for the incident and said that he will be more careful in the future when preparing food.
     </p>
-    <p> The student is currently receiving medical attention for the effects of the spicy soup. 
+    <p> 
+        The student is currently receiving medical attention for the effects of the spicy soup. 
         He is expected to recover fully, but he has been advised to avoid spicy foods for a while until his mouth and digestive system heal.
-        
+
     </p>
-    <p> The incident was posted on the school's social media pages, and it has sparked a lot of discussion among students and parents. 
+    <p>
+         The incident was posted on the school's social media pages, and it has sparked a lot of discussion among students and parents. 
         Some people are criticizing the school for not properly training their staff and for not ensuring the safety of their students. 
         Others are defending the school and saying that it was an honest mistake that could happen to anyone.
         There is another group of people who want to try the spicy soup themselves and are asking for the recipe to be shared.
         While the incident has caused some controversy, it has also brought attention to the importance of food safety and the need for proper training in food preparation.
         The school has promised to review their food safety protocols and to provide additional training to their staff to prevent similar incidents from happening in the future.
     </p>
-
 </div>
+<footer>
+
+    <h2> Want more spicy news? <a href="News 2.html" class="btn">Click here</a></h2>
+    <h3> Consider subscribing to our newsletter for the latest news and updates!</h3>
+    <h6> 2026 Vestnik Chushka. All rights reserved.</h6>
+
+</footer>
 </body>
 </html>
