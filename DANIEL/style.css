@@ -132,7 +132,7 @@ footer{
 }
 
 .review-box{
-    background-color: rgba(0, 0, 0, 0.893);
+    background-color: rgba(254, 1, 1, 0.69);
     border-radius: 10px;
     padding: 20px;
     width: 500px;
@@ -147,4 +147,16 @@ footer{
 
 .kiddies{
     height: 300px;
+}
+
+.contact-info{
+    margin: 20px;
+    padding: 20px;
+    padding-left: 650px;
+    background-color: rgba(254, 1, 1, 0.69);
+    border-radius: 10px;
+}
+
+.contact-info h2{
+    color: rgb(243, 255, 7);
 }
