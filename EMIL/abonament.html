@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel = "stylesheet" href = "styles.css">
+    <script src="script.js"></script>
+    <title> Spicy News - SUBSCRIBE </title>
+</head>
+<body>
+    <nav class = "navigation">
+        <img class = "logo" src = "logo (1).png" alt = "logo" width = "50" title = "VESTNIK CHUSKI LOGO">
+        <a href = "project-home page.html"> HOME </a>
+    </nav>
+    <header>
+        <h1> Spicy News - SUBSCRIBE </h1>
+    </header>
+    <div class = "subscription">
+     <button onclick="showPaymentForm()">
+    Subscribe to Premium - 5€ / month
+</button>
+
+<!-- Форма за плащане -->
+<div id="paymentForm" class="payment-form">
+    <h3>Payment Information</h3>
+    
+    <label>Cardholder Name:</label><br>
+    <input type="text" id="cardName" placeholder="John Doe"><br><br>
+    
+    <label>Card Number:</label><br>
+    <input type="text" id="cardNumber" placeholder="1234 5678 9012 3456" maxlength="19"><br><br>
+    
+    <label>Valid Until (MM/YY):</label><br>
+    <input type="text" id="expiry" placeholder="12/28" maxlength="5"><br><br>
+    
+    <label>CVV / CVC:</label><br>
+    <input type="text" id="cvv" placeholder="123" maxlength="4"><br><br>
+    
+    <button onclick="submitPayment()">Pay 5€ and subscribe</button>
+    <button onclick="closePaymentForm()">Cancel</button>
+    </div>
+</div>
+
+</body>
+</html>

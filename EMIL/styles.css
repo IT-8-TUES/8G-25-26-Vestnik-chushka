@@ -69,3 +69,18 @@ h3{
 h1{
     color: rgb(255, 255, 255);
 }
+.subscription{
+    background-color: rgba(254, 1, 1, 0.69);
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+.payment-form {
+    allign-items: center;
+    display: none;
+    background-color: rgba(254, 1, 1, 0.69);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
