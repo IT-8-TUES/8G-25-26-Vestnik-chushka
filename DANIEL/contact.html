@@ -13,12 +13,30 @@
     <header>
         <h1>Contact Us</h1>
     </header>
-    <div class="contact-info">
-        <h2>Where to find us:</h2>
-        <p>Email:   contact@vestnikchushki.bg</p>
-        <p>Instagram:   Vestnik_chushki123</p>
-        <p>Address:   TUES, block 9</p>
-        <p>Discord link:<a href="https://discord.gg/xHRCjJbC">click here</a></p>
+    <div class="giggaclass">
+        <div class="contact-info">
+            <h2>Where to find us:</h2>
+            <p>Email:   contact@vestnikchushki.bg</p>
+            <p>Instagram:   Vestnik_chushki123</p>
+            <p>Address:   TUES, block 9</p>
+            <p>Discord link:<a href="https://discord.gg/xHRCjJbC" class="shi">click here</a> </p>
+        </div>
+        <div class="contact-form">
+            <h2>Send us a message:</h2>
+            <form action="submit_form.php" method="post">
+                <label for="name">Name:</label><br>
+                <input type="text" id="name" name="name" required><br>
+                <label for="email">Email:</label><br>
+                <input type="email" id="email" name="email" required><br>
+                <label for="message">Message:</label><br>
+                <textarea id="message" name="message" rows="4" required></textarea><br>
+                <input type="submit" value="Submit">
+            </form>
+        </div>
     </div>
+    <footer id="stupalo">
+        <img class="huzz" src="logo.png" alt="logo" width="50" title="VESTNIK CHUSHKI LOGO">
+        <img class="map" src="map.png" alt="logo" width="50" title="VESTNIK CHUSHKI LOGO">
+    </footer>
 </body>
 </html>
